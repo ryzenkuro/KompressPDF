@@ -40,7 +40,7 @@ export const BYTES_PER_KB = 1024;
 export const BYTES_PER_MB = 1024 * 1024;
 
 // PDF.js worker configuration
-export const PDFJS_WORKER_URL = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.js`;
+export const PDFJS_WORKER_URL = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs`;
 
 // Toast durations
 export const TOAST_DURATION = 4000;
